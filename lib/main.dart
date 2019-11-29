@@ -8,7 +8,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Forms in Flutter',
-      initialRoute: '/dashboard',
+      initialRoute: '/',
       routes: {
         '/': (context) => LoginPage(),
         '/dashboard': (context) => Dashboard(),
