@@ -1,6 +1,8 @@
 # flutter_statefulwidget_loginpage_luthfi
 
-A new Flutter project.
+to do list application: checkbox, create list, login page, delete list 
+
+
 
 ## Getting Started
 
